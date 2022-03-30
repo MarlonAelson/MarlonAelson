@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho atualmente como Suporte Pleno, mas já trabalhei nas funções de migrador de dados e analista de implantação. Em todas elas eu lido diariamente com Banco de Dados Relacionais como: Firebird, SQL Server, MySQL, Postgres, SQLite.
 - 🌱 Sou um entusiasta por programação backend e atualmente estudo PHP e Framework Laravel;
-- 😄 Pronouns: Ele/Dele;
 
  <div>
   <a href="https://github.com/MarlonAelson">
