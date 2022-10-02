@@ -1,6 +1,6 @@
 ### Marlon Aelson Gomes 👋
 
-- 🔭 Tenho experiência como analista de suporte, migração de dados e analista de implantação, possuo conhecimento intermediário com bancos de dados Relacionais como: Firebird, SQL Server, MySQL, Postgres e SQLite.
+- 🔭 Tenho experiência como analista de suporte, migrador de dados e analista de implantação, possuo conhecimento intermediário com bancos de dados Relacionais como: Firebird, SQL Server, MySQL, Postgres e SQLite.
 
 - 🌱 Acabei me encantando com a área da programação web, porém mais ligado ao backend no momento e, por isso, atualmente estudo PHP e Framework Laravel. Estou buscando oportunidade para migrar de área e estudando visando me transformar num profissional fullstack.
 
