@@ -1,14 +1,8 @@
-### Marlon Aelson Gomes 👋
-
-- 🔭 Tenho mais de 10 anos de experiência como analista de suporte, migrador de dados e analista de implantação, possuo conhecimento intermediário com bancos de dados relacionais como: Firebird, SQL Server, MySQL, Postgres e SQLite.
-
-- 🌱 Acabei me encantando com a área da programação web, porém mais ligado ao backend no momento e, por isso, atualmente desenvolvo em PHP e Laravel.
-
- <div>
+<div>
   <a href="https://github.com/MarlonAelson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonAelson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonAelson&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+  </div>
  
  ##
 
